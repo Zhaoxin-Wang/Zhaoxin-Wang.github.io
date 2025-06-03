@@ -23,19 +23,19 @@ repository               : "Zhaoxin-Wang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhaoxin Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Xi'an"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #uri              : # URL
+  email            : "wangzhaoxin@stu.xidian.edu.cn" 
 
   # Academic websites
   #academia         : # URL
   #arxiv            : # URL - Update with the correct link to your profile
   Googlescholar    : "https://scholar.google.com/citations?user=GFgQ940AAAAJ&hl=zh-CN"
-  Email      :      "wangzhaoxin@stu.xidian.edu.cn"
+  #Email      :      "wangzhaoxin@stu.xidian.edu.cn"
   Orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-5860-8370"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
