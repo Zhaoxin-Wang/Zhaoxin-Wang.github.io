@@ -120,7 +120,7 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
 
 # 🎖 Selected Awards and Honors
 - *National Scholarship*, Xidian University, 2024.
-- *First Tencent Scholarship*, Tencent, 2024.
+- *First Class Tencent Scholarship*, Tencent, 2024.
 - *National Scholarship*, Xidian University, 2020.
 - *China Aerospace Science and Technology Corporation Scholarship*, 2020.
 - *Meritorious Prize of The Mathematical Contest in Modeling*, MCM, 2020.
