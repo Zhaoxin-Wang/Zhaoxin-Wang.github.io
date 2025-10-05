@@ -106,16 +106,17 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Academic Services
+- *Conference* ACM MM, NeurIPS, ICLR, ICCV, CVPR, WACV, AAAI
+- *Journal* CAIS, TETCI, TEVC, TIFS, ASOC, Neurocomputing
 
 # 📖 Educations
-- *2022.09 - Now*, Ph.D. student at the School of Artificial Intelligence, Xidian University, supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN).
+- *2022.09 - Now*, Ph.D. student at the School of Artificial Intelligence, [Xidian University](https://en.xidian.edu.cn/), supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN).
 - *2018.09 - 2022.06*, B.E. in Intelligent Science and Technology at the School of Artificial Intelligence, [Xidian University](https://en.xidian.edu.cn/).
 
 # 💬 Invited Talks
-- *2025.06*, Nice Seminar \| [\[video\]](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6813647b33590b8bee8b08cdb87dbe45)
+- *2025.06*, [Student Nice Seminar](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6813647b33590b8bee8b08cdb87dbe45)
+
 
 # 🎖 Selected Awards and Honors
 - **National Scholarship**, Xidian University, 2024.
