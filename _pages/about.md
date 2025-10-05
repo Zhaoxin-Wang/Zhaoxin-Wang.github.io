@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, I am Zhaoxin Wang. I am a Ph.D. student at the School of Artificial Intelligence, Xidian University, supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN). And I also collaborate closely with Prof. [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=zh-CN). Previously, I received my B.E. degree in Intelligent Science and Technology from Xidian University in 2022. I am currently a visiting student at the [NExT++](https://www.nextcenter.org/) Lab, National University of Singapore, working with Dr. [Jiayi Ji](https://scholar.google.com/citations?user=xp_rICcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao).
-My research interest is trustworthy AI, including adversarial robustness, backdoor attacks, and multimodal large language models.
+My research interests lie in trustworthy AI, with a focus on adversarial robustness, backdoor attacks, and the safety of multimodal large language models.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -107,15 +107,15 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
 
 
 # 💻 Academic Services
-- *Conference* ACM MM, NeurIPS, ICLR, ICCV, CVPR, WACV, AAAI
-- *Journal* CAIS, TETCI, TEVC, TIFS, ASOC, Neurocomputing
+- *Conference:* ICCV, CVPR, WACV, AAAI, ACM MM, NeurIPS, ICLR
+- *Journal:* TIFS, TEVC, CAIS, TETCI, ASOC, Neurocomputing
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. student at the School of Artificial Intelligence, [Xidian University](https://en.xidian.edu.cn/), supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN).
 - *2018.09 - 2022.06*, B.E. in Intelligent Science and Technology at the School of Artificial Intelligence, [Xidian University](https://en.xidian.edu.cn/).
 
-# 💬 Invited Talks
-- *2025.06*, [Student Nice Seminar](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6813647b33590b8bee8b08cdb87dbe45)
+# 💬 Invited Talks 
+- *2025.06*, [Student Nice Seminar](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6813647b33590b8bee8b08cdb87dbe45), Online
 
 
 # 🎖 Selected Awards and Honors
