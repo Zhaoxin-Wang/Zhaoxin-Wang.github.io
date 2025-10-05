@@ -29,7 +29,7 @@ My research interest is trustworthy AI, including adversarial robustness, backdo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/bilevel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/bilevel.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-Level Optimization Perspective](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_9), <br />
