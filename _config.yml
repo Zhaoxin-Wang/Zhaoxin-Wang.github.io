@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaoxin Wang<br>王兆鑫"
+  name             : "<font size='5'>Zhaoxin Wang</font><br><font size='3'>王兆鑫</font>"
   avatar           : "images/photo.png"
   bio              : "Xidian University"
   location         : "Xi'an, China"
