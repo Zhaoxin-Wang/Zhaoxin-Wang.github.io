@@ -33,19 +33,9 @@ My research interest is trustworthy AI, including adversarial robustness, backdo
 <div class='paper-box-text' markdown="1">
   
 - [Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-Level Optimization Perspective](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_9), <br />
-**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin, <br />
+**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
 **European Conference on Computer Vision (ECCV 2024)**
 
-</div>
-</div> 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TSAT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- [Adversarial Training of Deep Neural Networks Guided by Texture and Structural Information](https://dl.acm.org/doi/abs/10.1145/3581783.3612163), <br />
-**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin, <br />
-**ACM International Conference on Multimedia (ACM MM 2023)**
-  
 </div>
 </div> 
 
@@ -54,11 +44,68 @@ My research interest is trustworthy AI, including adversarial robustness, backdo
 <div class='paper-box-text' markdown="1">
   
 - [Efficient Adversarial Training with Multi-Fidelity Optimization for Robust Neural Networks](https://www.sciencedirect.com/science/article/pii/S0925231224003989), <br />
-**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin, <br />
-**Neurocomputing**
+**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
+**Neurocomputing Volume 585, 7 June 2024**
   
 </div>
 </div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TSAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Adversarial Training of Deep Neural Networks Guided by Texture and Structural Information](https://dl.acm.org/doi/abs/10.1145/3581783.3612163), <br />
+**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
+**ACM International Conference on Multimedia (ACM MM 2023)**
+  
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IJA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models](https://arxiv.org/abs/2505.16446), <br />
+**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
+**Under Review**
+  
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EDBA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Enhancing the Effectiveness and Durability of Backdoor Attacks in Federated Learning through Maximizing Task Distinction](https://arxiv.org/pdf/2509.18904), <br />
+**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
+**Under Review**
+  
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TCBS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Token-level constraint boundary search for jailbreaking text-to-image models](https://arxiv.org/abs/2504.11106), <br />
+Jiangtao Liu, **Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
+**Under Review**
+  
+
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PCLMG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- **Towards Adversarial Transferability under Unlabeled Heterogeneous Data**, <br />
+Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
+**DOCS 2025**
+  
+</div>
+</div> 
+
+
+
 
 
 
