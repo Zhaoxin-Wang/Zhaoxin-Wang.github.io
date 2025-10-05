@@ -40,7 +40,7 @@ My research interest is trustworthy AI, including adversarial robustness, backdo
 </div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TSAT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
   
 - [Adversarial Training of Deep Neural Networks Guided by Texture and Structural Information](https://dl.acm.org/doi/abs/10.1145/3581783.3612163), <br />
 **Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin, <br />
@@ -51,7 +51,7 @@ My research interest is trustworthy AI, including adversarial robustness, backdo
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SMAT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
   
 - [Efficient Adversarial Training with Multi-Fidelity Optimization for Robust Neural Networks](https://www.sciencedirect.com/science/article/pii/S0925231224003989), <br />
 **Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin, <br />
