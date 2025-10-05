@@ -94,7 +94,7 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/PCLMG.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PCMLG.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - **Towards Adversarial Transferability under Unlabeled Heterogeneous Data**, <br />
@@ -106,22 +106,20 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
 
 
 
-
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Now*, Ph.D. student at the School of Artificial Intelligence, Xidian University, supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN).
+- *2018.09 - 2022.06*, B.E. in Intelligent Science and Technology at the School of Artificial Intelligence, [Xidian University](https://en.xidian.edu.cn/).
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.06*, Nice Seminar \| [\[video\]](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6813647b33590b8bee8b08cdb87dbe45)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Selected Awards and Honors
+- **National Scholarship**, Xidian University, 2024.
+- **First Tencent Scholarship**, Tencent, 2024.
+- **National Scholarship**, Xidian University, 2020.
+- **China Aerospace Science and Technology Corporation Scholarship**, 2020.
+- **Meritorious Prize of The Mathematical Contest in Modeling**, MCM, 2020.
