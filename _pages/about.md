@@ -60,6 +60,16 @@ My research interests lie in trustworthy AI, with a focus on adversarial robustn
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Safeneuron.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [SafeNeuron: Neuron-Level Safety Alignment for Large Language Models](https://arxiv.org/abs/2602.12158), <br />
+**Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
+**Under Review**
+  
+</div>
+</div> 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/IJA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,25 +114,28 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/multilingual.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Multilingual Safety Alignment Via Sparse Weight Editing](https://arxiv.org/abs/2602.22554), <br />
+Jiaming Liang, **Zhaoxin Wang**, Handing Wang  <br />
+**IEEE Transactions on Evolutionary Computation**
+  
 
+</div>
+</div> 
 
-### Additional Papers
-
-- **FNAT: Few Neurons Finetuning for Parameter Efficient Adversarial Training**, <br />
-Zihang Ding, **Zhaoxin Wang**, Handing Wang <br />
-**Under Review**
-
-- **SafeNeuron: Neuron-Level Safety Alignment for Large Language Models**, <br />
-**Zhaoxin Wang**, Jiaming Liang, Fengbin Zhu, Weixiang Zhao, Junfeng Fang, Jiayi Ji, Handing Wang, Tat-Seng Chua <br />
-**Under Review**
-
-- **Multilingual Safety Alignment Via Sparse Weight Editing**, <br />
-Jiaming Liang, **Zhaoxin Wang**, Handing Wang <br />
-**Under Review**
-
-- **DTVI: Dual-Stage Textual and Visual Intervention for Safe Text-to-Image Generation**, <br />
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DTVI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [DTVI: Dual-Stage Textual and Visual Intervention for Safe Text-to-Image Generation], <br />
 Binhong Tan, **Zhaoxin Wang**, Handing Wang <br />
 **Under Review**
+
+</div>
+</div> 
+
+
 
 
 # 💻 Academic Services
