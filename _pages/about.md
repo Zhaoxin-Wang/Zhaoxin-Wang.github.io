@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Zhaoxin Wang. I am a Ph.D. student at the School of Artificial Intelligence, Xidian University, supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN). And I also collaborate closely with Prof. [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=zh-CN). Previously, I received my B.E. degree in Intelligent Science and Technology from Xidian University in 2022. I am currently a visiting student at the [NExT++](https://www.nextcenter.org/) Lab, National University of Singapore, working with Dr. [Jiayi Ji](https://scholar.google.com/citations?user=xp_rICcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao).
-My research interests lie in trustworthy AI, with a focus on adversarial robustness, backdoor attacks, and the safety of multimodal large language models.
+Hello, I am Zhaoxin Wang. I am a Ph.D. student at the School of Artificial Intelligence, Xidian University, supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN). I also collaborate closely with Prof. [Yaochu Jin](https://scholar.google.com/citations?user=B5WAkz4AAAAJ&hl=zh-CN). Previously, I received my B.E. degree in Intelligent Science and Technology from Xidian University in 2022. I am currently a visiting student at the [NExT++](https://www.nextcenter.org/) Lab, National University of Singapore, working with Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao).
+My research interests lie in trustworthy AI, with a focus on adversarial robustness, backdoor attacks, and the safety of large foundation models.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -88,7 +88,7 @@ My research interests lie in trustworthy AI, with a focus on adversarial robustn
   
 - [Token-level constraint boundary search for jailbreaking text-to-image models](https://arxiv.org/abs/2504.11106), <br />
 Jiangtao Liu, **Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
-**Under Review**
+**IEEE Transactions on Evolutionary Computation**
   
 
 </div>
@@ -106,9 +106,28 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
 
 
 
+### Additional Papers
+
+- **FNAT: Few Neurons Finetuning for Parameter Efficient Adversarial Training**, <br />
+Zihang Ding, **Zhaoxin Wang**, Handing Wang <br />
+**Under Review**
+
+- **SafeNeuron: Neuron-Level Safety Alignment for Large Language Models**, <br />
+**Zhaoxin Wang**, Jiaming Liang, Fengbin Zhu, Weixiang Zhao, Junfeng Fang, Jiayi Ji, Handing Wang, Tat-Seng Chua <br />
+**Under Review**
+
+- **Multilingual Safety Alignment Via Sparse Weight Editing**, <br />
+Jiaming Liang, **Zhaoxin Wang**, Handing Wang <br />
+**Under Review**
+
+- **Cross-Modal Rectification: Embedding Intervention and Feature Suppression for Safe Text-to-Image Generation**, <br />
+Binhong Tan, **Zhaoxin Wang**, Handing Wang <br />
+**Under Review**
+
+
 # 💻 Academic Services
-- *Conference:* ICCV, CVPR, WACV, AAAI, ACM MM, NeurIPS, ICLR
-- *Journal:* TIFS, TEVC, CAIS, TETCI, ASOC, Neurocomputing
+- *Conference:* ACM MM (2023-2026), NeurIPS (2024-2025), ICLR (2025-2026), ICML (2026), ICCV (2025), CVPR (2025), ECCV (2026)
+- *Journal:* CAIS, TETCI, TEVC, TIFS, ASOC, SPL, TPAMI
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. student at the School of Artificial Intelligence, [Xidian University](https://en.xidian.edu.cn/), supervised by Prof. [Handing Wang](https://scholar.google.com/citations?user=JtYr_7cAAAAJ&hl=zh-CN).
