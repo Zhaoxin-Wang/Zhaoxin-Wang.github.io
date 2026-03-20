@@ -120,7 +120,7 @@ Zihang Ding, **Zhaoxin Wang**, Handing Wang <br />
 Jiaming Liang, **Zhaoxin Wang**, Handing Wang <br />
 **Under Review**
 
-- **Cross-Modal Rectification: Embedding Intervention and Feature Suppression for Safe Text-to-Image Generation**, <br />
+- **DTVI: Dual-Stage Textual and Visual Intervention for Safe Text-to-Image Generation**, <br />
 Binhong Tan, **Zhaoxin Wang**, Handing Wang <br />
 **Under Review**
 
