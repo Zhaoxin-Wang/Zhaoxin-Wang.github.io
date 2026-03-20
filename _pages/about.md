@@ -107,7 +107,7 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang, Cong Tian, Yaochu Jin <br />
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/PCMLG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- **Towards Adversarial Transferability under Unlabeled Heterogeneous Data**, <br />
+- [Towards Adversarial Transferability under Unlabeled Heterogeneous Data](https://ieeexplore.ieee.org/abstract/document/11200657), <br />
 Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
 **DOCS 2025**
   
@@ -119,7 +119,7 @@ Jiangtao Liu, **Zhaoxin Wang**, Handing Wang <br />
   
 - [Multilingual Safety Alignment Via Sparse Weight Editing](https://arxiv.org/abs/2602.22554), <br />
 Jiaming Liang, **Zhaoxin Wang**, Handing Wang  <br />
-**IEEE Transactions on Evolutionary Computation**
+**Under Review**
   
 
 </div>
